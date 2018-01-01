@@ -15,3 +15,5 @@ To fix this, simply delete the file. In the future, Amazon S3 will be used to pe
 However, if you run the app on your own server (eg. localhost) the files will remain.
 
 The bulk of our code can be found in the controllers, helpers, and views.
+
+will8760 is an old account of William Lu's. His new account is WilliamLu99.
